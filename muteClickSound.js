@@ -1,3 +1,3 @@
 (function() {
-    Game.playCookieClickSound = function() { return; };
+    Game.playCookieClickSound = function() { return };
 })();
