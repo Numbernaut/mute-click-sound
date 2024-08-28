@@ -1,3 +1,4 @@
 (function() {
-    console.log("Minimal script loaded!");
+    console.log("MuteClickSound mod loaded!");
+    Game.playCookieClickSound = function() { return };
 })();
