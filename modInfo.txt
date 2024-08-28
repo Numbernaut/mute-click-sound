@@ -1,0 +1,5 @@
+Name: Mute Click Sound
+ID: MuteClickSound
+Author: Numbernaut
+Description: This mod mutes the cookie click sound by overriding the Game.playCookieClickSound function.
+Version: 1.0
